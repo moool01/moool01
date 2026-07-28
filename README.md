@@ -56,7 +56,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [🔥 디지털 트윈 화재 대피 서비스](https://github.com/moool01/HIU_HACKERTON) | 세종 DX 해커톤 대상 · YOLOv8 + Flask + AWS | Python, Flask, YOLOv8, React |
+| [🔥 디지털 트윈 화재 대피 서비스](https://github.com/moool01/HIU_HACKERTON) | 세종 DX 해커톤 대상 · YOLOv5 + Flask + AWS | Python, Flask, YOLOv5, React |
 | [💧 정수 처리 자동화 시스템](https://github.com/moool01/ssis_test) | 수자원공사 · Kafka 파이프라인 + ML 자동화 | Kafka, Docker, XGBoost |
 | [🔍 복지로 시멘틱 검색](https://github.com/moool01/SSIS_RAG) | 한국사회보장정보원 · RAG 기반 문맥 검색 | LangChain, ChromaDB |
 | [🤖 세종대왕 RAG 챗봇](https://github.com/moool01/sejong_capstone) | 졸업 프로젝트 · 로컬 LLM End-to-End 구현 | FAISS, EXAONE, LangChain |
